@@ -13,6 +13,12 @@
 - docker: pull image from dockerhub
 - Kubernetes: Pull Image from dockerhub
 
+#### Requirments 
+- AWS Account
+- Fork Project in Github
+- MobaXterm program - for windows users only.
+- Git Bash - check git is installed
+
 #### Deployment (Different Here)
 - Deploy on VM (Web Application based on programming language used)
 - Deploy on a Container (Docker)
