@@ -9,7 +9,7 @@
 - GitHub: Distributed Repo
 - Jenkins: Pull code from github, Automate CI -> contains Maven, Deploy code (VM,Docker) or Copy Artifacts (Ansible) 
 - Maven: Build Code
-- Ansible: Push Image to dockerhub, Deploy container to docker
+- Ansible: Contarized the application (e.g. jar to Image) then Push Image to dockerhub, Deploy container to docker
 - docker: pull image from dockerhub
 - Kubernetes: Pull Image from dockerhub
 
