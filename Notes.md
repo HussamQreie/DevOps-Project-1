@@ -2,8 +2,18 @@
 
 ---
 
-### Project-Workflow differnet in deployment
+### Project-Workflow 
 
+#### Tools
+- Git: Local Repo, commit code to GitHub
+- GitHub: Distributed Repo
+- Jenkins: Pull code from github, Automate CI -> contains Maven, Deploy code (VM,Docker) or Copy Artifacts (Ansible) 
+- Maven: Build Code
+- Ansible: Push Image to dockerhub, Deploy container to docker
+- docker: pull image from dockerhub
+- Kubernetes: Pull Image from dockerhub
+
+#### Deployment (Different Here)
 - Deploy on VM (Web Application based on programming language used)
 - Deploy on a Container (Docker)
 - Deploy on a Container (Ansible, DockerHub, Docker)
