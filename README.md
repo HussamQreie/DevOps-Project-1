@@ -1,6 +1,4 @@
-# DevOps-Projects
-This repo to proof experience by projects
-
+# DevOps-Project-1
 ---
 
 ### Project 1 - Simple CI/CD Pipline 
