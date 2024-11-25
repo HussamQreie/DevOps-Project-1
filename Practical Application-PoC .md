@@ -6,6 +6,11 @@
 
 ---
 ## Tools Installation:
+- Workflow Includes:
+  - Install Git
+  - Install MobaXterm
+  - Pull Source Code from Github
+  - AWS Account
 
 ### Git
 ![img-0001](https://github.com/user-attachments/assets/ba115f9b-a593-463f-8e36-004dd128f5db)
@@ -29,4 +34,12 @@
 ### AWS Account (I already have one)
 ![img-0007](https://github.com/user-attachments/assets/f78fcbb2-c784-4d20-92e3-baaad462cfa4)
 
+---
 
+## Setup Jenkins Server
+- Workflow Includes:
+  - Setup a Linux EC2 Instance -> Hosting OS of Jenkins Server
+  - Install Java -> Jenkins Requirment
+  - Install Jenkins
+  - Start Jenkins
+  - Access Web UI on port 8080
