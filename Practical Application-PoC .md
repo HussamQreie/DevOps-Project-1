@@ -76,11 +76,28 @@
 
 ---
 
-### f
+### Choose Fedora -> based on the distribution
 ![img-0019](https://github.com/user-attachments/assets/e079855e-98d5-4c24-9df3-928d7fe567a8)
-![img-0020](https://github.com/user-attachments/assets/5ba3434b-1151-4a1f-81e0-304c8a99158e)
+
+---
+
+### Install Jenkins Repo and Key
+![img-0020](https://github.com/user-attachments/assets/85880805-e62a-4b5e-8e8a-bd45ea9a4855)
+
+---
+
+### Install Java and Jenkins Server
+
+- Note: Because we use Amazon Linux OS, it is recommended to use Amazon Corretto JDK
+
 ![img-0021](https://github.com/user-attachments/assets/83a5aa8c-8ddf-4a36-8e51-cf6028960e9c)
+
+### Start Jenkins Server
 ![img-0022](https://github.com/user-attachments/assets/69615ece-0668-4078-9ded-85999239e522)
+
+### Check Listening Ports
 ![img-0023](https://github.com/user-attachments/assets/fce5a7fc-0f6c-4ba7-abe0-82a4f03bdaff)
+
+### Access Jenkins UI
 ![img-0024](https://github.com/user-attachments/assets/7b9ca7b5-0421-4218-aa44-4286d8909189)
 ![img-0025](https://github.com/user-attachments/assets/e5f74c2e-4d84-47e5-952b-7f0551df2a7a)
