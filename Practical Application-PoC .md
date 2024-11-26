@@ -14,7 +14,6 @@
 
 ### Git
 ![img-0001](https://github.com/user-attachments/assets/ba115f9b-a593-463f-8e36-004dd128f5db)
-
 ![img-0002](https://github.com/user-attachments/assets/b4a85db6-7ea3-43a5-bc6a-be4ef2c3b732)
 
 ---
@@ -38,8 +37,50 @@
 
 ## Setup Jenkins Server
 - Workflow Includes:
-  - Setup a Linux EC2 Instance -> Hosting OS of Jenkins Server
+  - Setup a Linux EC2 Instance -> Hosting OS for Jenkins Server
   - Install Java -> Jenkins Requirment
   - Install Jenkins
   - Start Jenkins
   - Access Web UI on port 8080
+
+--
+
+### Setup a Linux EC2 Instance
+#### Generate Key pair -> to access hosting OS via ssh securly
+![img-0009](https://github.com/user-attachments/assets/ecf4261c-40b8-4cd5-8e40-b938174cc82b)
+![img-0010](https://github.com/user-attachments/assets/b4803b07-ce77-45cc-af4a-62c3b2338ebf)
+
+#### Add security group
+![img-0011](https://github.com/user-attachments/assets/2ca8aa71-98f5-4004-969c-6d0d839e94ab)
+![img-0012](https://github.com/user-attachments/assets/8ccbefcc-d778-48ef-9a7c-1c285f521a09)
+
+#### EC2 summary
+![img-0013](https://github.com/user-attachments/assets/d7010663-396c-41c6-942f-d643832d8154)
+
+---
+
+### Access Hosting Machine via ssh using MobaXterm program
+![img-0014](https://github.com/user-attachments/assets/1b97598a-96be-4c86-ad2e-3f1418b88954)
+![img-0015](https://github.com/user-attachments/assets/0dfd4c17-1713-4ab6-8000-a8001f83cff4)
+![img-0016](https://github.com/user-attachments/assets/d815b047-81fe-46b4-bc42-481a4c5c7192)
+
+---
+
+### Escalate privilege to root - requirement to install Jenkins server
+![img-0017](https://github.com/user-attachments/assets/bc6092a5-a656-4d04-a43c-023b2ae3497c)
+
+---
+
+### Check OS distribution and other details -> to install Jenkins based on it
+![img-0018](https://github.com/user-attachments/assets/073072c6-7e78-4901-bafc-ae50de066cd7)
+
+---
+
+### f
+![img-0019](https://github.com/user-attachments/assets/e079855e-98d5-4c24-9df3-928d7fe567a8)
+![img-0020](https://github.com/user-attachments/assets/5ba3434b-1151-4a1f-81e0-304c8a99158e)
+![img-0021](https://github.com/user-attachments/assets/83a5aa8c-8ddf-4a36-8e51-cf6028960e9c)
+![img-0022](https://github.com/user-attachments/assets/69615ece-0668-4078-9ded-85999239e522)
+![img-0023](https://github.com/user-attachments/assets/fce5a7fc-0f6c-4ba7-abe0-82a4f03bdaff)
+![img-0024](https://github.com/user-attachments/assets/7b9ca7b5-0421-4218-aa44-4286d8909189)
+![img-0025](https://github.com/user-attachments/assets/e5f74c2e-4d84-47e5-952b-7f0551df2a7a)
