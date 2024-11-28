@@ -101,3 +101,14 @@
 ### Access Jenkins UI
 ![img-0024](https://github.com/user-attachments/assets/7b9ca7b5-0421-4218-aa44-4286d8909189)
 ![img-0025](https://github.com/user-attachments/assets/e5f74c2e-4d84-47e5-952b-7f0551df2a7a)
+
+---
+
+### Setting up Jenkins
+- Admin Credentials:
+  - Username: admin
+  - Password: admin
+
+- Install suggested Plugins
+
+---
