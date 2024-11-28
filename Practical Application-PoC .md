@@ -50,9 +50,13 @@
 ![img-0009](https://github.com/user-attachments/assets/ecf4261c-40b8-4cd5-8e40-b938174cc82b)
 ![img-0010](https://github.com/user-attachments/assets/b4803b07-ce77-45cc-af4a-62c3b2338ebf)
 
+---
+
 #### Add security group
 ![img-0011](https://github.com/user-attachments/assets/2ca8aa71-98f5-4004-969c-6d0d839e94ab)
 ![img-0012](https://github.com/user-attachments/assets/8ccbefcc-d778-48ef-9a7c-1c285f521a09)
+
+---
 
 #### EC2 summary
 ![img-0013](https://github.com/user-attachments/assets/d7010663-396c-41c6-942f-d643832d8154)
@@ -92,11 +96,17 @@
 
 ![img-0021](https://github.com/user-attachments/assets/83a5aa8c-8ddf-4a36-8e51-cf6028960e9c)
 
+---
+
 ### Start Jenkins Server
 ![img-0022](https://github.com/user-attachments/assets/69615ece-0668-4078-9ded-85999239e522)
 
+---
+
 ### Check Listening Ports
 ![img-0023](https://github.com/user-attachments/assets/fce5a7fc-0f6c-4ba7-abe0-82a4f03bdaff)
+
+---
 
 ### Access Jenkins UI
 ![img-0024](https://github.com/user-attachments/assets/7b9ca7b5-0421-4218-aa44-4286d8909189)
@@ -111,4 +121,9 @@
 
 - Install suggested Plugins
 
+![img-0026](https://github.com/user-attachments/assets/6d8273f2-3ef1-4e12-924a-79bf249f8945)
+
 ---
+
+### Running 1st job(task) in Jenkins
+
