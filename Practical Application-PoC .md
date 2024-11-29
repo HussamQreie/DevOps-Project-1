@@ -201,6 +201,12 @@
   - Git tool is important to deal with (Git,GitHub,GitLab) using commands
 
 
+- Finally, Configure Git in Jenkins
+  
 ---
 
 ### Run Jenkins job to pull code from Github
+
+-
+-
+-
