@@ -145,11 +145,49 @@
 #### Job(Task) Description
 ![img-0029](https://github.com/user-attachments/assets/587cff49-c468-4b78-84de-e715e3a085f1)
 
+---
+
 #### Select Executive Shell if Jenkins server installed in Linux Machine
 ![img-0030](https://github.com/user-attachments/assets/49a39706-0395-4fc4-ab3b-1839b4cf65cf)
+
+---
 
 #### Writing Shell command
 ![img-0031](https://github.com/user-attachments/assets/dea4bdac-32d2-4d7d-8000-5681c32cc994)
 
+---
+
 #### Select Build Now opiton
 ![img-0032](https://github.com/user-attachments/assets/01288f79-9c8c-46d2-a0a6-3555e4c758da)
+
+---
+
+#### I faced a problem
+
+![img-0033](https://github.com/user-attachments/assets/b0dc8a55-0aa6-4d40-89ac-11212fa5e4e2)
+
+![img-0034](https://github.com/user-attachments/assets/89e258e3-a6ca-48e1-9395-10df202c71ab)
+
+---
+
+#### Select Plugins
+![img-0035](https://github.com/user-attachments/assets/f807c4c8-cc23-4b4b-842e-b12ecf15f3fa)
+
+---
+
+#### Bring this node back online
+![img-0036](https://github.com/user-attachments/assets/3f13ed79-3647-4b8a-a284-20888a5438e8)
+
+---
+
+#### Now building succsessed
+![img-0037](https://github.com/user-attachments/assets/4405512d-4405-4f86-ad06-92cdc2936eb6)
+
+---
+
+#### Console Output
+![img-0038](https://github.com/user-attachments/assets/50a1473e-d5ae-4682-a272-24fe60977774)
+
+---
+
+### Integrate Git with Jenkins
