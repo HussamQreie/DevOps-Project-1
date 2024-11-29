@@ -192,9 +192,15 @@
 
 ### Integrate external tools with Jenkins
 
-- Just Installing Suggested Plugins is enough to deal with
-  - for example here: (Git, Github)
+- First, Installing Suggested Plugins is important to let Jenkins deals with external tools
+  - for example : (Git, Github)
 
 ![img-0039](https://github.com/user-attachments/assets/3e3c4c47-ecb5-4696-8dd9-c6d01b47831d)
 
+- Then, Install the externel tool itself in the hosting machine of Jenkins Server
+  - Git tool is important to deal with (Git,GitHub,GitLab) using commands
+
+
 ---
+
+### Run Jenkins job to pull code from Github
