@@ -190,4 +190,11 @@
 
 ---
 
-### Integrate Git with Jenkins
+### Integrate external tools with Jenkins
+
+- Just Installing Suggested Plugins is enough to deal with
+  - for example here: (Git, Github)
+
+![img-0039](https://github.com/user-attachments/assets/3e3c4c47-ecb5-4696-8dd9-c6d01b47831d)
+
+---
