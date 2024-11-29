@@ -127,3 +127,29 @@
 
 ### Running 1st job(task) in Jenkins
 
+#### New Item / Create a job
+![img-0027](https://github.com/user-attachments/assets/96f81646-548a-491b-938e-dee585a916ec)
+
+---
+
+#### Avaiable options after installing suggested plugins (Pipline, etc)
+![img-0026](https://github.com/user-attachments/assets/db7de2de-7e12-4131-80b1-a542345cfac4)
+
+---
+
+#### Select FreeStyle option
+![img-0028](https://github.com/user-attachments/assets/81d8c504-e528-4a70-81fb-100c1aef0644)
+
+---
+
+#### Job(Task) Description
+![img-0029](https://github.com/user-attachments/assets/587cff49-c468-4b78-84de-e715e3a085f1)
+
+#### Select Executive Shell if Jenkins server installed in Linux Machine
+![img-0030](https://github.com/user-attachments/assets/49a39706-0395-4fc4-ab3b-1839b4cf65cf)
+
+#### Writing Shell command
+![img-0031](https://github.com/user-attachments/assets/dea4bdac-32d2-4d7d-8000-5681c32cc994)
+
+#### Select Build Now opiton
+![img-0032](https://github.com/user-attachments/assets/01288f79-9c8c-46d2-a0a6-3555e4c758da)
