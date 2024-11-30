@@ -163,6 +163,7 @@
 ---
 
 #### I faced a problem
+- The Jenkins built-in node is offline due to low disk space on the /tmp directory.
 
 ![img-0033](https://github.com/user-attachments/assets/b0dc8a55-0aa6-4d40-89ac-11212fa5e4e2)
 
@@ -190,7 +191,7 @@
 
 ---
 
-### Integrate external tools with Jenkins
+### Integrate external tools with Jenkins - GitHub 
 
 - First, Installing Suggested Plugins is important to let Jenkins deals with external tools
   - for example : (Git, Github)
@@ -229,3 +230,130 @@
 ---
 
 ### Build java project in Jenkins using Maven
+
+#### Integrate external tools with Jenkins - Maven 
+
+- First, Installing Suggested Plugins is important to let Jenkins deals with external tools - already done
+  - for example : (Maven, Gradle, etc)
+
+![img-0039](https://github.com/user-attachments/assets/3e3c4c47-ecb5-4696-8dd9-c6d01b47831d)
+
+- Then, Install the externel tool itself in the hosting machine of Jenkins Server 
+  - Git tool is important to deal with (Git,GitHub,GitLab) using commands
+
+![img-0039 1](https://github.com/user-attachments/assets/859046a3-2fa9-4269-aa38-3a3903ae8808)
+![img-0039 2](https://github.com/user-attachments/assets/7bfffac9-f2e4-440f-95a5-0fc6efe772d3)
+
+
+- Finally, Configure Git in Jenkins
+
+![img-0042](https://github.com/user-attachments/assets/d62e9a3d-e6b2-4791-9500-7cc32fbbea42)
+
+![img-0043](https://github.com/user-attachments/assets/883c1477-d216-4277-ae41-06b4da7b64e9)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### This is an example of pom.xml file and brief description in comments
+  ```sh
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <!-- Root element for the Maven project -->
+
+    <modelVersion>4.0.0</modelVersion> <!-- POM model version -->
+
+    <groupId>com.example</groupId> <!-- Organization or project name -->
+    <artifactId>my-app</artifactId> <!-- Name of the artifact (e.g., JAR/WAR) -->
+    <version>1.0</version>         <!-- Version of the project -->
+
+    <dependencies>
+        <!-- List of project dependencies -->
+        <dependency>
+            <groupId>junit</groupId>       <!-- Dependency group ID (JUnit library) -->
+            <artifactId>junit</artifactId> <!-- Dependency artifact ID -->
+            <version>4.13.2</version>      <!-- Version of JUnit to use -->
+            <scope>test</scope>            <!-- Used only during testing -->
+        </dependency>
+    </dependencies>
+
+    <build>
+        <!-- Custom build configurations -->
+        <plugins>
+            <!-- List of build plugins -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId> <!-- Plugin group ID -->
+                <artifactId>maven-compiler-plugin</artifactId> <!-- Compiler plugin -->
+                <version>3.8.1</version>                      <!-- Plugin version -->
+                <configuration>
+                    <source>11</source> <!-- Java source version -->
+                    <target>11</target> <!-- Java bytecode version -->
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ```
