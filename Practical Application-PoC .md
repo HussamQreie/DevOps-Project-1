@@ -200,13 +200,28 @@
 - Then, Install the externel tool itself in the hosting machine of Jenkins Server
   - Git tool is important to deal with (Git,GitHub,GitLab) using commands
 
+![img-0039 1](https://github.com/user-attachments/assets/859046a3-2fa9-4269-aa38-3a3903ae8808)
+![img-0039 2](https://github.com/user-attachments/assets/7bfffac9-f2e4-440f-95a5-0fc6efe772d3)
+
 
 - Finally, Configure Git in Jenkins
-  
+
+![img-0042](https://github.com/user-attachments/assets/d62e9a3d-e6b2-4791-9500-7cc32fbbea42)
+
+![img-0043](https://github.com/user-attachments/assets/883c1477-d216-4277-ae41-06b4da7b64e9)
+
 ---
 
 ### Run Jenkins job to pull code from Github
 
--
--
--
+![img-0040](https://github.com/user-attachments/assets/2696e7cd-6e01-4903-9a44-e4f243459305)
+
+![img-0041](https://github.com/user-attachments/assets/fee91dda-41fe-4b20-b3ea-d42b709300ad)
+
+![img-0044](https://github.com/user-attachments/assets/d53d12d5-5f25-45f0-be39-f3da98aee840)
+
+![img-0045](https://github.com/user-attachments/assets/9eeb80b8-f1dd-49b7-9cb1-59dc9f0f4bc9)
+
+![img-0046](https://github.com/user-attachments/assets/b8bca049-960a-48ca-84eb-03ab06e4caa7)
+
+![img-0047](https://github.com/user-attachments/assets/02bba6b7-304a-41a5-b553-0166d78e0c5f)
