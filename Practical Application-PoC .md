@@ -48,6 +48,7 @@
 ### Setup a Linux EC2 Instance
 #### Generate Key pair -> to access hosting OS via ssh securly
 ![img-0009](https://github.com/user-attachments/assets/ecf4261c-40b8-4cd5-8e40-b938174cc82b)
+
 ![img-0010](https://github.com/user-attachments/assets/b4803b07-ce77-45cc-af4a-62c3b2338ebf)
 
 ---
