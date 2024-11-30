@@ -225,3 +225,7 @@
 ![img-0046](https://github.com/user-attachments/assets/b8bca049-960a-48ca-84eb-03ab06e4caa7)
 
 ![img-0047](https://github.com/user-attachments/assets/02bba6b7-304a-41a5-b553-0166d78e0c5f)
+
+---
+
+### Build java project in Jenkins using Maven
