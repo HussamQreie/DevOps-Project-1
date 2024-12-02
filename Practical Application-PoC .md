@@ -1,4 +1,4 @@
-# PoC (Proof of Concept)d
+# PoC (Proof of Concept)
 - Includes:
   - ScreenShots
   - Brief Description
