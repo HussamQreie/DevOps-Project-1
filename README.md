@@ -2,11 +2,12 @@
 ---
 ## Workflow 
 
-### 1 
+### 1- Deploy on VM (Web Server based on programming language used)
+- Java
 ```mermaid
 flowchart TB
     %% Deploy on VM
-    subgraph  Deploy-on-VM
+    subgraph  Deploy["Deploy on VM"]
         Git --> |"<b>Commit Code</b>"| GitHub
         GitHub --> |"<b>Pull Code</b>"| Jenkins
         Jenkins --> |"<b>Deploy Code</b>"| Tomcat-Server
@@ -34,12 +35,12 @@ flowchart TB
 
 ---
 
-### 2
+### 2- Deploy on a Container (Docker)
 
 ```mermaid
 flowchart TB
     %% Deploy on a Container 
-    subgraph  Deploy-on-a-Container
+    subgraph  Deploy["Deploy on a Container"]
         Git --> |"<b>Commit Code</b>"| GitHub
         GitHub --> |"<b>Pull Code</b>"| Jenkins
         Jenkins --> |"<b>Deploy Code</b>"| Docker
@@ -67,12 +68,12 @@ flowchart TB
 
 ---
 
-### 3
+### 3- Deploy on a Container (Ansible, DockerHub, Docker)
 
 ```mermaid
 flowchart TB
     %% Deploy on a Container 
-    subgraph  Deploy-on-a-Container-include-Ansible
+    subgraph  Deploy["Deploy on a Container"]
         Git --> |"<b>Commit Code</b>"| GitHub
         GitHub --> |"<b>Pull Code</b>"| Jenkins
         Jenkins --> |"<b>Build Code</b>"| Maven
@@ -106,7 +107,7 @@ flowchart TB
 ```
 ---
 
-### 4
+### 4- Deploy on Kubernetes (Ansible, DockerHub, Kubernetes)
 
 ```mermaid
 flowchart TB
