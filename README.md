@@ -157,6 +157,6 @@ flowchart TB
 ---
 
 ## Check Proof of Work
-<url-of-file>
+- url-of-file
 
 
