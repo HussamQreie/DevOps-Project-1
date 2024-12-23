@@ -359,24 +359,8 @@
     </build>
 </project>
 
+  ```
+
 ---
 
-# Smth new
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  ```
+### Smth new
