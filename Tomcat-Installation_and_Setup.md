@@ -71,8 +71,8 @@ goto tomcat home directory and Add below users to conf/tomcat-users.xml file
 1. Restart serivce and try to login to tomcat application from the browser. This time it should be Successful
 
 ---
-my notes:
-tomcat-users.xml: users&passwords&roles
-server.xml: change port
-context.xml: comment permessions (403 forbidden)
+#### my notes:
+- `tomcat-users.xml`: users&passwords&roles
+- `server.xml`: change port
+- `context.xml`: comment permessions (403 forbidden)
 
