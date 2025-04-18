@@ -21,6 +21,10 @@ vagrant status
 check Virtualbox
 
 ```sh
+vagrant ssh
+```
+
+```sh
 sudo -i
 ```
 
