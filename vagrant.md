@@ -73,4 +73,10 @@ vagrant global-status
 vagrant global-status --prune
 ```
 
+---
 
+## VagrantFile Configurations - Set VM Resources (RAM, CPU, etc)
+
+```sh
+
+```
