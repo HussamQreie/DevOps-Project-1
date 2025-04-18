@@ -1,4 +1,10 @@
 # Vagrant
+
+## Vagrant Releases
+URL: https://releases.hashicorp.com/vagrant/
+## Vagrant Boxes
+URL: https://portal.cloud.hashicorp.com/vagrant/discover
+
 ---
 
 ```sh
