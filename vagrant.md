@@ -72,3 +72,5 @@ vagrant global-status
 ```sh
 vagrant global-status --prune
 ```
+
+
