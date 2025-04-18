@@ -87,5 +87,10 @@ vagrant up # for new vm
 
 vagrant reload # for current vm -> apply changes
 ```
-
+validate
+```sh
+vagrant ssh
+free -m
+cat /proc/cpuinfo
+```
 
