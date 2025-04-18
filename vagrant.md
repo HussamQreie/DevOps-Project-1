@@ -75,8 +75,17 @@ vagrant global-status --prune
 
 ---
 
-## VagrantFile Configurations - Set VM Resources (RAM, CPU, etc)
+## VagrantFile Configurations - Set VM Resources (RAM, CPU, NET ADP, etc)
 
+- e.g. Specify CPUs and RAM
 ```sh
-
+vb.memory="2048"
+vb.cpus="2"
 ```
+```sh
+vagrant up # for new vm 
+
+vagrant reload # for current vm -> apply changes
+```
+
+
